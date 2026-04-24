@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "lf1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d9655fdd-a942-4c92-88b1-395a36c78a32",
+			"database_name": "lf1"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
